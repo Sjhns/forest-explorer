@@ -91,7 +91,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 1. Reportar bugs
 2. Sugerir novas features
 3. Enviar pull requests
-
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
